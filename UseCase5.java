@@ -6,7 +6,7 @@ public class UseCase5 {
             String.join("", "**     ** ", "**     ** ", "**    **  ", "**         "),
             String.join("", "**     ** ", "**     ** ", "*******   ", "  *****    "),
             String.join("", "**     ** ", "**     ** ", "**       ", "       **   "),
-            String.join("", " **   **  ", " **   **  ", "**       ", " **    **   "),
+            String.join("", " **   **  ", " **   **  ", "**       ", "  **    **   "),
             String.join("", "   ***    ", "   ***    ", "**       ", "  *****     "),
         };
         for(String line : lines){

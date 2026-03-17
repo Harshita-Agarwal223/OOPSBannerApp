@@ -1,5 +1,5 @@
 public class UseCase5 {
-    //PRINT OOPS TO CONSOLE
+  
     public static void main(String[] args) {
         String[] lines = {
             String.join("", "   ***    ", "   ***    ", "*******   ", "  *****    "),
